@@ -1,0 +1,1 @@
+public enum FormatEnumAha { string, integer, mix }
